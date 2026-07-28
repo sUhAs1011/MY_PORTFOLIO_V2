@@ -20,7 +20,7 @@
    ```shell
    streamlit run portfolio.py
    ```
-        OR
+   or
    ```shell
    python -m streamlit run portfolio.py
    ```
